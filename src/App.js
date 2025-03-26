@@ -7,7 +7,7 @@ function App() {
 
       <div className="port-container">
         <div className="port-video">
-          <video src={"/videos/FirstProject.mp4"} autoPlay muted loop></video>
+          <video src={"https://psm0419.github.io/web-portfolio/videos/FirstProject.mp4"} autoPlay muted loop></video>
         </div>
       </div>
 <div className="port-info">
