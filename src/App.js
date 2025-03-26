@@ -1,23 +1,26 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>박수민의 포트폴리오</h1>
+
+      <div className="port-container">
+        <div className="port-video">
+          <video src={"/videos/FirstProject.mp4"} autoPlay muted loop></video>
+        </div>
+      </div>
+<div className="port-info">
+    <h3>주제: 운동 기록</h3>
+    <p>일정: </p>
+    <p>사용 기술: </p>
+    <p>설명: </p>
+    <a>깃허브 링크: https://github.com/psm0419/web-portfolio.git</a>
+</div>
+
+
+
+
     </div>
   );
 }
