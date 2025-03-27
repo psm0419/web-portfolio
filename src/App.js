@@ -15,7 +15,7 @@ function App() {
           <p>운동 기록 시각화 및 분석 기능 제공</p>
           <p>운동 초보자를 위한 전문가 상담 서비스 제공</p>
           <p>사용자에게 중요 정보를 전달하는 공지 시스템 제공</p>
-          <a src="https://github.com/psm0419/web-portfolio.git">깃허브 링크: https://github.com/psm0419/web-portfolio.git</a>
+          <a href="https://github.com/psm0419/web-portfolio.git">깃허브 링크: https://github.com/psm0419/web-portfolio.git</a>
         </div>
         <br></br>
         <div className="port-container">
@@ -36,12 +36,12 @@ function App() {
           <p>국내 지역 축제 정보 제공 및 홍보로 국내 여행 활성화에 기여</p>
           <p>축제 주변 관광지, 맛집, 숙박 정보 제공</p>
           <p>후기 게시판 및 질문 게시판을 통한 커뮤니티 정보 공유</p>
-          <a src="https://github.com/psm0419/web-portfolio.git">깃허브 링크: https://github.com/psm0419/web-portfolio.git</a>
+          <a href="https://github.com/psm0419/web-portfolio.git">깃허브 링크: https://github.com/psm0419/web-portfolio.git</a>
         </div>
         <br></br>
         <div className="port-container">
           <div className="port-video">
-            <video className="video" src={"https://psm0419.github.io/web-portfolio/videos/FirstProject.mp4"} autoPlay muted loop></video>
+            <video className="video" src={"https://psm0419.github.io/web-portfolio/videos/SecondProject.mp4"} autoPlay muted loop></video>
           </div>
         </div>
       </div>
@@ -57,7 +57,7 @@ function App() {
           <p>최저가, 즐겨찾기, 필터링 기능으로 빠르게 원하는 정보 검색</p>
           <p>멤버십 가입 시 할인 혜택 제공</p>
           <p>단위 환산, 세금, 불법 주유소 정보 등 세부 사항 제공</p>
-          <a src="https://github.com/psm0419/web-portfolio.git">깃허브 링크: https://github.com/psm0419/web-portfolio.git</a>
+          <a href="https://github.com/psm0419/web-portfolio.git">깃허브 링크: https://github.com/psm0419/web-portfolio.git</a>
         </div>
         <br></br>
         <div className="port-container">
