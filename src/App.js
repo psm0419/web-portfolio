@@ -22,7 +22,7 @@ function App() {
                 <li>운동 기록 시각화 및 분석 기능 구현</li>
                 <li>전문가 상담 서비스와 공지 시스템 제공</li>
               </ul>
-              <p><strong>기여:</strong> React를 활용한 UI 설계 및 데이터 시각화 기능 구현</p>
+              <p><strong>기여:</strong> 프로그램 소개, 회원가입, 로그인, 상담페이지 구현</p>
               <a href="https://github.com/psm0419/Pentagon.git" target="_blank" rel="noopener noreferrer">
                 GitHub: Pentagon 프로젝트
               </a>
@@ -45,7 +45,7 @@ function App() {
                 <li>축제 주변 관광지, 맛집, 숙박 정보 통합</li>
                 <li>커뮤니티 게시판을 통한 사용자 소통 기능 구현</li>
               </ul>
-              <p><strong>기여:</strong> Spring과 MyBatis를 활용한 백엔드 API 개발</p>
+              <p><strong>기여:</strong> 공공API를 활용한 축제 주변 정보 지도 구현, 검색기능 구현</p>
               <a href="https://github.com/psm0419/TravelMaker.git" target="_blank" rel="noopener noreferrer">
                 GitHub: TravelMaker 프로젝트
               </a>
@@ -68,7 +68,7 @@ function App() {
                 <li>최단거리 및 교통 상황 반영 경로 추천</li>
                 <li>최저가 검색, 필터링, 멤버십 혜택 기능 구현</li>
               </ul>
-              <p><strong>기여:</strong> React와 Spring 연동을 통한 실시간 데이터 처리</p>
+              <p><strong>기여:</strong> 오피넷 API 활용 주유소, 충전소 지도 구현, 소셜 로그인 구현</p>
               <a href="https://github.com/psm0419/Juvo.git" target="_blank" rel="noopener noreferrer">
                 GitHub: Juvo 프로젝트
               </a>
@@ -81,7 +81,7 @@ function App() {
       </section>
 
       <footer>
-        <p>문의: psm0419@example.com | GitHub: <a href="https://github.com/psm0419" target="_blank" rel="noopener noreferrer">psm0419</a></p>
+        <p>문의: sm8804@naver.com | GitHub: <a href="https://github.com/psm0419" target="_blank" rel="noopener noreferrer">psm0419</a></p>
       </footer>
     </div>
   );
